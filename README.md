@@ -1,0 +1,4 @@
+pIRC
+====
+
+PHP IRC Bot
